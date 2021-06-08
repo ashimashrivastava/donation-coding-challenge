@@ -1,3 +1,15 @@
+# Donation form coding challenge acceptance criteria:
+
+- Form should initialize with zero donors and zero dollars funded -- ✓ DONE
+- Form should not accept donations of less than $5.00 -- ✓ DONE
+- Each form submission updates the remaining funding balance in the tooltip to the correct dollar amount -- ✓ DONE
+- Each form submission updates the progress bar to the correct percentage of funding towards the $5,000 goal -- ✓ DONE
+- Each form submission updates the number of donors to the correct number -- ✓ DONE
+- The form should continue to allow for donations to be collected even after the funding goal is reached however the UI should signify to the user that the goal has been reached. How to accomplish this is up to you and creativity is encouraged! -- ✓ DONE
+
+Hope you like the Donation Form 😊 !!
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
